@@ -1,0 +1,10 @@
+name: NovaBrot
+version: 1.0
+main: de.tommyyt.novabrot.NovaBrot
+api-version: '1.21'
+author: TommyYT_
+
+commands:
+  bread:
+    description: Gibt dem Spieler 64 Brot.
+    usage: /bread
